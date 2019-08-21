@@ -1,0 +1,12 @@
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.csprojAssemblyReference.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.csproj.CoreCompileInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.AssemblyInfoInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.AssemblyInfo.cs
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\bin\Debug\netstandard2.0\dal.deps.json
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\bin\Debug\netstandard2.0\dal.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\bin\Debug\netstandard2.0\dal.pdb
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\bin\Debug\netstandard2.0\model.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\bin\Debug\netstandard2.0\model.pdb
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.csproj.CopyComplete
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\dal\obj\Debug\netstandard2.0\dal.pdb

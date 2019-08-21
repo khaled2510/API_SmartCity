@@ -1,0 +1,9 @@
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\bin\Release\netstandard2.0\dto.deps.json
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\bin\Release\netstandard2.0\dto.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\bin\Release\netstandard2.0\dto.pdb
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.csprojAssemblyReference.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.csproj.CoreCompileInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.AssemblyInfoInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.AssemblyInfo.cs
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\dto\obj\Release\netstandard2.0\dto.pdb

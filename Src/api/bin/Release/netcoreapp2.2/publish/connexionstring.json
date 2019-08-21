@@ -1,0 +1,5 @@
+{   
+    "ConnectionStrings": {       
+    "DefaultConnection": "Server=tcp:agendanam2.database.windows.net,1433;Initial Catalog=agendanam2;Persist Security Info=False;User ID=khaled;Password=Hk539hAs;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"        
+    } 
+}

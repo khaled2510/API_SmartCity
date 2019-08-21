@@ -1,0 +1,11 @@
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\bin\Release\netcoreapp2.2\model.deps.json
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\bin\Release\netcoreapp2.2\model.runtimeconfig.json
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\bin\Release\netcoreapp2.2\model.runtimeconfig.dev.json
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\bin\Release\netcoreapp2.2\model.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\bin\Release\netcoreapp2.2\model.pdb
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.csprojAssemblyReference.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.csproj.CoreCompileInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.AssemblyInfoInputs.cache
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.AssemblyInfo.cs
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.dll
+C:\copie_cleUSB\3iem\BD_avance\APISmartcity-master\Src\model\obj\Release\netcoreapp2.2\model.pdb
